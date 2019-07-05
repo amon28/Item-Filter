@@ -1,5 +1,5 @@
 # Item Filter
-Crates that gives you items
+You can now set that certain items will not go in your inventory
 
 # Using phar
 Download it at the release tab
